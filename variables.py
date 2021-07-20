@@ -13,3 +13,9 @@ miFuncion()
 print(x)
 print (" y ")
 print (y)
+
+
+if x == 3:
+    print("ok!!")
+else: 
+    print("nok!!")
